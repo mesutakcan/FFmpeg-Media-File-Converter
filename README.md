@@ -7,6 +7,8 @@ FFmpeg Media File Converter is an open-source application developed with AutoHot
 
 ## Features
 
+- **Settings Persistence**: User settings (FFmpeg path, parameters, output extension) are saved to an INI file and automatically loaded on startup.
+- **"Save settings on Exit" Option**: Control whether settings are saved on exit with a simple checkbox.
 - **Drag-and-Drop Support**: Quickly add files by simply dragging and dropping them into the application.
 - **Resizable Interface**: Resize the application window to suit your preferences.
 - **File List Management**: Add, remove, or clear files from the conversion list.
@@ -14,7 +16,22 @@ FFmpeg Media File Converter is an open-source application developed with AutoHot
 - **Output Format Selection**: Choose the desired output file extension.
 - **Conversion Progress Monitoring**: View the status of each file and overall progress in a dedicated status window.
 - **Cancel Ongoing Conversions**: Stop the conversion process at any time.
-- **Command line parameters** : Allows users to add files for conversion by passing them as command line arguments when launching the application.
+- **Command Line Parameters**: Add files for conversion by passing them as command line arguments when launching the application.
+- **Dynamic Menu System**: Menu and context menu items are dynamically enabled/disabled based on the file list and selection state.
+- **Download & Help Buttons**: Access FFmpeg downloads and documentation directly from the application.
+- **Improved Error Handling**: User-friendly error messages and checks (e.g., for FFmpeg path validity).
+
+## What's New in v1.1
+
+- Settings are now saved to and loaded from an INI file.
+- Added "Save settings on Exit" checkbox.
+- Menu and context menu items are dynamically enabled/disabled.
+- Unified UI update function for buttons and menus.
+- Added buttons and menu items for FFmpeg download and help.
+- Improved drag & drop and command line file adding.
+- Enhanced status window and resizing.
+- Improved error handling and user feedback.
+- Code refactored for better modularity and readability.
 
 ## Requirements
 
