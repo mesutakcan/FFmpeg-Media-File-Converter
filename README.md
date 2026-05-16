@@ -2,8 +2,8 @@
 
 FFmpeg Media File Converter is an open-source application developed with AutoHotkey v2.0. It provides an intuitive graphical interface for converting media files using FFmpeg. Users can easily select files, customize FFmpeg parameters, and monitor the conversion process.
 
-![Main Interface Screenshot](https://github.com/akcansoft/FFmpeg-Media-File-Converter/blob/main/ss-1.png)
-![Conversion Status Screenshot](https://github.com/akcansoft/FFmpeg-Media-File-Converter/blob/main/ss-2.png)
+![Main Interface Screenshot](https://github.com/mesutakcan/FFmpeg-Media-File-Converter/blob/main/ss-1.png)
+![Conversion Status Screenshot](https://github.com/mesutakcan/FFmpeg-Media-File-Converter/blob/main/ss-2.png)
 
 ## Features
 
@@ -36,7 +36,7 @@ FFmpeg Media File Converter is an open-source application developed with AutoHot
 ## Requirements
 
 - **FFmpeg**: Ensure FFmpeg is installed on your system. You can download it from [FFmpeg.org](https://ffmpeg.org/). After downloading, extract the files and note the path to `ffmpeg.exe`.
-- **AutoHotkey v2.0**: To review and run the source code [MediaFileConverter.ahk](https://github.com/akcansoft/FFmpeg-Media-File-Converter/blob/MediaFileConverter.ahk), AutoHotkey v2.0 must be installed. Download it from [AutoHotkey.com](https://www.autohotkey.com/).  
+- **AutoHotkey v2.0**: To review and run the source code [MediaFileConverter.ahk](https://github.com/mesutakcan/FFmpeg-Media-File-Converter/blob/MediaFileConverter.ahk), AutoHotkey v2.0 must be installed. Download it from [AutoHotkey.com](https://www.autohotkey.com/).  
   Note: AutoHotkey installation is not required to run the `MediaFileConverter.exe` file.
 
 ## Installation
@@ -61,7 +61,7 @@ This project is licensed under the GNU AFFERO GENERAL PUBLIC License, which ensu
 ## Author
 
 - **Mesut Akcan**  
-  - [GitHub](https://github.com/akcansoft)  
+  - [GitHub](https://github.com/mesutakcan)  
   - [YouTube](https://youtube.com/mesutakcan)  
   - [Blog](https://mesutakcan.blogspot.com)  
 
