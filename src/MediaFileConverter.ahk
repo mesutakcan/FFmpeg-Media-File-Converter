@@ -6,7 +6,7 @@ Mesut Akcan
 makcan@gmail.com
 youtube.com/mesutakcan
 mesutakcan.blogspot.com
-github.com/akcansoft
+github.com/mesutakcan
 =============================
 v1.1 R19
 14/06/2025
@@ -548,9 +548,8 @@ About(*) {
 Mesut Akcan
 makcan@gmail.com
 
-akcansoft.blogspot.com
 mesutakcan.blogspot.com
-github.com/akcansoft
+github.com/mesutakcan
 youtube.com/mesutakcan
 )",
     appName, appVer), "About", "Owner" mainGui.Hwnd)
